@@ -4,10 +4,9 @@
         <div id="links">
             <a href=mailto:avp2141@columbia.edu target="blank">Contact</a>
             <a href="/resume.pdf" target="blank">Resume</a>
-            <nuxt-link to="/WhatIDo">What I do</nuxt-link> 
+            <NuxtLink to="/Activities">What I Do</NuxtLink> 
             <NuxtLink to="/Research">Research & Projects</NuxtLink> 
-            <a href=#About>About</a>
-        </div>   
+        </div>
     </div>
 </template>
 

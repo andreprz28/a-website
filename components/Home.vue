@@ -10,13 +10,17 @@
             </div>
         </div>
 
+        <div>
+
+        </div>
+
         <div class="About">
             <p>About Me</p>
                 <div id="titleabout">
-                    <p> Researcher. Health & STEM Educator. Science Communicator.</p>
+                    <p> Make Science. Teach Science. Write Science.</p>
                 </div>
                 <div id="contentabout">
-                    <p> Hello! I’m Andre, a biomedical engineering student at Columbia University, with minors in entrepreneurship & innovation. Hailing from the vibrant islands of the Philippines, I aspire to use the intersection of medicine and technology to bridge health inequities in third-world countries, and hopefully, build technologies to solve the world's most pressing issues in medicine. Outside of engineering, I love teaching science and writing about science!</p>
+                    <p> Hello! I’m Andre, a biomedical engineering student at Columbia University, taking up a minor in entrepreneurship & innovation. Hailing from the vibrant islands of the Philippines, I aspire to use the intersection of medicine and technology to bridge health inequities in third-world countries, and hopefully, build technologies to solve the world's most pressing issues in medicine. Outside of engineering, I love teaching science and writing about science!</p>
                 </div>
         </div>
     </div>
