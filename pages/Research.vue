@@ -29,7 +29,7 @@
                 </div>    
             </div>
             <div id="research4">
-                <img src="/energy.jpg" alt="slide saying energy applications of quantum computing" id="researchpic3" width="300px" height="180px"/>
+                <img src="static/energy.jpg" alt="slide saying energy applications of quantum computing" id="researchpic3" width="300px" height="180px"/>
                 <div class="research4text">
                     <p id="research4title">Columbia Summer Physics Research Program</p>
                     <p class="research4content">Research Program Participant</p>
